@@ -1,0 +1,15 @@
+:root {
+  /* COLORS */
+  --clr-orange-400: 25 97% 53%;
+  --clr-blue-800: 213 19% 18%;
+  --clr-blue-900: 216 12% 8%;
+  --clr-grey-300: 217 12% 63%;
+  --clr-white: 0 0% 100%;
+
+  /* FONT FAMILY */
+  --ff-overpass: "Overpass", sans-serif;
+
+  /* FONT WEIGHTS */
+  --fw-normal: 400;
+  --fw-bold: 700;
+}
